@@ -12,3 +12,5 @@ In this project, we will provide you a pre-compiled kernel module for AC1200. Yo
 # Insert Kernel Module
 Type the following command:
 $ sudo rpi-update 692dde0c1586f7310301379a502b9680d0c104fd
+$ wget https://github.com/oneonestar/COMP2322_Project/raw/master/8812au.ko
+$ sudo insmod 8812au.ko
