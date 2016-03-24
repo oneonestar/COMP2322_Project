@@ -29,7 +29,7 @@ $ dmesg
 [ 1241.827805] usbcore: registered new interface driver rtl8812au
 ```
 
-Now you may plugin your TP-LINK USB dongle. Type the command `dmesg` again to verify the dongle is identified by the OS successfully.
+Now you may plugin your TP-LINK USB dongle. Type the command `dmesg` again to verify that the dongle is identified by the OS successfully.
 ```
 $ dmesg
 [ 3648.998209] usb 1-1.4: new high-speed USB device number 8 using dwc_otg
@@ -52,7 +52,7 @@ $ dmesg
 ```
 
 # A Pi-based wireless router
-Now you can utilize the TP-LINK USB dongle and setup your Pi-based wireless router. This is your task to figure out how to setup the router. You may refer to the following articals:
+Now you can utilize the TP-LINK USB dongle and setup your Pi-based wireless router. It is your task to figure out how to setup the router. You may refer to the following articals:
 * https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/install-software
 * http://raspberrypihq.com/how-to-turn-a-raspberry-pi-into-a-wifi-router/
 * https://opensysnotes.wordpress.com/2015/03/16/hostapd-configuration-for-rtl8812/
