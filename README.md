@@ -20,7 +20,7 @@ $ wget https://github.com/oneonestar/COMP2322_Project/raw/master/8812au.ko
 $ sudo insmod 8812au.ko
 ```
 
->**Additional information**<br> If you are interested in compiling the kernel module on your own, you may refer to this artical: http://www.ploxiln.net/rpi_kernel_modules.html
+>**Additional information**<br> If you are interested in compiling the kernel module on your own, you may refer to this article: http://www.ploxiln.net/rpi_kernel_modules.html
 
 To verify the installation, type the command `dmesg`. You should be able to see an output message mentioning the rtl8812au driver.
 ```
@@ -52,7 +52,7 @@ $ dmesg
 ```
 
 # A Pi-based wireless router
-Now you can utilize the TP-LINK USB dongle and setup your Pi-based wireless router. It is your task to figure out how to setup the router. You may refer to the following articals:
+Now you can utilize the TP-LINK USB dongle and setup your Pi-based wireless router. It is your task to figure out how to setup the router. You may refer to the following articles:
 * https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/install-software
 * http://raspberrypihq.com/how-to-turn-a-raspberry-pi-into-a-wifi-router/
 * https://opensysnotes.wordpress.com/2015/03/16/hostapd-configuration-for-rtl8812/
