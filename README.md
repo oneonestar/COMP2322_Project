@@ -62,4 +62,4 @@ Beware that the chipset for the dongle is rtl8812. The configuration may be slig
 >**Caution**<br> You have to insert the kernel module every time after reboot. If you wish to load the kernel module automatically at boot time, you should figure out how to do it by yourself. Having the wireless router up automatically after rebooting the Pi will be a bonus feature.
 
 # Enquiry
-if you have any enquiries, please contact Star\<csspoon@comp.polyu.edu.hk\>. Some questions will not be answered, since this is a group project assessment.
+If you have any enquiries, please contact Star\<csspoon@comp.polyu.edu.hk\>. Some questions will not be answered, since this is a group project assessment.
